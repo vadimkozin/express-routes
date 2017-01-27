@@ -2,7 +2,7 @@
 
 ###Run
 ```bash
-    npm init
+    npm install
     node index
 ```
 
